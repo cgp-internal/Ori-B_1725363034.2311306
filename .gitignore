@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb
+*.egg-info/
+*.egg
+*.parts/
+*.csv
+.idea/
+.vscode/
+.vim/
+.DS_Store
